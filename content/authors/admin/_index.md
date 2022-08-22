@@ -1,7 +1,7 @@
 ---
 title: Izzeddin Teeti
 role: PhD Student in Computer Vision and Machine Learning
-avatar_filename: izzeddin.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
