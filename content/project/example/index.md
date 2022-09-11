@@ -1,12 +1,14 @@
 ---
 slides: example
 url_pdf: ""
+title: MAESTRO Project
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
 url_slides: ""
-title: MAESTRO Project
+subtitle: A shared project between Oxford Brookes University and Imperial
+  College London to automate tasks inside the operating room.
 tags:
   - Deep Learning
 links:
