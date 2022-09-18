@@ -1,13 +1,15 @@
 ---
 slides: example
 url_pdf: ""
-title: MAESTRO Project
 summary: A shared project between Oxford Brookes University and Imperial College
   London to automate tasks inside the operating room.
+authors:
+  - Fabio
 url_video: ""
 date: 2022-09-11T16:54:15.702Z
 external_link: ""
 url_slides: ""
+title: MAESTRO Project
 subtitle: A shared project between Oxford Brookes University and Imperial
   College London to automate tasks inside the operating room.
 tags:

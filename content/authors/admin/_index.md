@@ -2,12 +2,14 @@
 title: Izzeddin Teeti
 role: PhD Student in Computer Vision and Machine Learning
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter
+bio: My research interests include Continual Learning, Vision Transformers,
+  Autonomous Driving.
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - AV
+  - Machine Learning
+  - Continual Learning
+  - Autonomous Vehicles
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,19 +31,19 @@ organizations:
     url: https://www.brookes.ac.uk/research/units/tde/groups/visual-artificial-intelligence-laboratory/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: "PhD in Autonomous Vehicles Technologies "
+      institution: Oxford Brookes University
+      year: ""
+    - course: MSc in Robotics
+      institution: King's College London
+      year: ""
+    - course: BSc in Mechanical Engineering
+      institution: American University of Madaba
+      year: ""
+email: izzeddin.teeti@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a 
+I am a PhD student at Oxford Brookes Univeristy, my main research is focused on Intention and Trajectory Prediction in Atuonomous Vehicles. I am also engaed in applying machine learngin in medical applications. I am using Continual Learning, Computational Theory of Mind, Transformers, and Graphes in my research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
