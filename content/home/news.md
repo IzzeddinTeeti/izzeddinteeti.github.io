@@ -4,7 +4,7 @@ widget_id: news
 headless: true
 weight: 35
 title: News
-active: true
+active: false
 design:
   columns: "2"
   background:
