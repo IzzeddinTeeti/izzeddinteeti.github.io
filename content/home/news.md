@@ -4,7 +4,7 @@
 widget: pages
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 35
@@ -37,3 +37,5 @@ subtitle:
 #   columns: '2'
 ---
 * [**April 28th, 2021**]: I have been awarded the price of [deaness](http://izzeddin.net/)
+
+---
