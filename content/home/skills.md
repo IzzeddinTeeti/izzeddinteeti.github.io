@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
-activate: False 
+activate: false
 # This file represents a page section.
 headless: true
 
