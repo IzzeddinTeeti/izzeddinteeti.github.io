@@ -1,13 +1,13 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: 'github.izzeddinteeti.news'
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 20
 
 title: News
 subtitle:
