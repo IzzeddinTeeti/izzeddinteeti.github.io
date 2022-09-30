@@ -12,7 +12,7 @@ weight: 40
 title: News
 subtitle:
 
-# content:
+content:
 #   # Filter on criteria
 #   filters:
 #     folders:
