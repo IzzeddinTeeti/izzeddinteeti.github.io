@@ -21,11 +21,12 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   The logos are in assets/icons/brands
 experience:
   - title: AI Project Lead
     company: Oxford Brookes Racing Autonomous Team
     company_url: ''
-    company_logo: org-gc
+    company_logo: OBRA-logo
     location: Oxford, UK
     date_start: '2021-02-01'
     date_end: ''
