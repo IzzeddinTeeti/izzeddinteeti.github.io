@@ -12,7 +12,7 @@ weight: 40
 title: News
 subtitle:
 
-content:
+# content:
 #   # Filter on criteria
 #   filters:
 #     folders:
@@ -59,5 +59,3 @@ content:
 * [**April 28th, 2021**]: I have been awarded the price of [deaness](http://izzeddin.net/)
 * [**April 28th, 2021**]: I have been awarded the price of [deaness](http://izzeddin.net/)
 * [**April 28th, 2021**]: I have been awarded the price of [deaness](http://izzeddin.net/)
-
----
