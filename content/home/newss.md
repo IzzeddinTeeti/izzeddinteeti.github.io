@@ -1,6 +1,6 @@
 ---
 # Replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name, respectively.
-widget: blank #'github.izzeddinteeti.newss'
+widget: news #blank #'github.izzeddinteeti.newss'
 
 # This file represents a page section.
 headless: true
