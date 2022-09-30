@@ -38,14 +38,75 @@ experience:
         * Writing the team’s yearly plan and milestones. Supervising budget, recruitment, and research&industry connections.
         * Contact: Dr Andrew Bradley - abradley@brookes.ac.uk
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  
+  - title: Robotics Lecturer
+    company: Al-Zaytona University of Science and Technology
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: OBRA-logo
+    location: Ramallah, Palestine
+    date_start: '2020-09-01'
+    date_end: '2021-01-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Delivered courses and supervised labs for the BSc Robotics programme.
+        * Participated in modifying the BSc Robotics programme’s structure to include latest technology and suit market needs.
+        * Contact: Dr Fahoum Shalabi - fahoum.shalabi@zust.edu.ps
+
+  
+  - title: Machine Learning Engineer
+    company: Alpha Omega Biomedical Engineering
+    company_url: ''
+    company_logo: OBRA-logo
+    location: Nazareth
+    date_start: '2019-11-01'
+    date_end: '2020-08-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Applied LSTM to build a GPi-navigation software that classified microelectrode recordings series and detected the Striatum-GPe-GPi borders online in Parkinson’s disease, with an accuracy of 91.1%.
+        * Worked inside the operating room with high credentials neurologists, observed the algorithm’s performance, recorded feedback, and modified the algorithm accordingly.
+        * Worked within an AGILE environment and wrote the Software Requirements Specification (SRS) for the GPi-Navigation software.
+        * Contact: Dr Amir Abedelqadir - a.abedelqadir@alphaomega-eng.com
+
+
+  - title: Research and Teaching Assistant
+    company: Birzeit University
+    company_url: ''
+    company_logo: OBRA-logo
+    location: Ramallah, Palestine
+    date_start: '2016-09-01'
+    date_end: '2018-06-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Delivered laboratories, such as Control, Technical and Mechanical Drawing, Vibrations, Thermal Applications, Mechanics.
+        * Designed experiments in the labs, and delivered professional skills workshops for the students.
+        * Helped the department with administrative tasks and invigilate exams and tests.
+        * Contact: Mohammad Al Karaeen - mkaraen@birzeit.edu
+
+
+  - title: Research and Teaching Assistant, Part-time
+    company: Palestine Polytechnic University
+    company_url: ''
+    company_logo: OBRA-logo
+    location: Hebron, Palestine
+    date_start: '2017-09-01'
+    date_end: '2018-06-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Delivered Mechanical Drawing lab, and discussion lectures for Dynamics, Machines Dynamics, and Control Theory.
+        * Contact: Iyad Hashlamon - iyad@ppu.edu
+
+  # - title: Professor of Semiconductor Physics
+  #   company: University X
+  #   company_url: ''
+  #   company_logo: org-x
+  #   location: California
+  #   date_start: '2016-01-01'
+  #   date_end: '2020-12-31'
+  #   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
