@@ -1,4 +1,4 @@
----
+<!-- ---
 # Replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name, respectively.
 widget: news #blank #'github.izzeddinteeti.newss'
 
@@ -29,4 +29,4 @@ title: News
 * [**July 11th, 2022**]: I will serve as a **Senior Program Committee (Area Chair/Meta Reviewer)** for AAAI23.
 * [**May 26th, 2022**]: **Three papers** accepted to the Adversarial Machine Learning Frontiers ICML2022 workshop! Papers will be coming on arXiv soon.
 * [**May 16th, 2022**]: Our paper titled [Data Dependent Randomzied Smoothing](https://arxiv.org/abs/2012.04351)  is accepted to UAI22.
-* [**April 22nd, 2022**]: I was selected as the [Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers) and received a free conference registration.
+* [**April 22nd, 2022**]: I was selected as the [Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers) and received a free conference registration. -->
