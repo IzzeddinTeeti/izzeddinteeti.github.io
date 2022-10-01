@@ -1,7 +1,6 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank 
+# Replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name, respectively.
+widget: blank #'github.izzeddinteeti.newss'
 
 # This file represents a page section.
 headless: true
@@ -14,4 +13,4 @@ title: News
 ---
 * [**April 28th, 2021**]: I have been awarded the price of [deaness](http://izzeddin.net/)
 
----
+ 
