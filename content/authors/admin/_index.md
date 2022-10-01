@@ -44,6 +44,6 @@ email: izzeddin.teeti@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a PhD student at Oxford Brookes Univeristy, my main research is focused on Intention and Trajectory Prediction in Atuonomous Vehicles. I am also engaed in applying machine learngin in medical applications. I am using Continual Learning, Computational Theory of Mind, Transformers, and Graphes in my research.
+I am a PhD student at Oxford Brookes University, my main research is focused on Intention and Trajectory Prediction in Autonomous Vehicles. I am also engaged in applying machine learning in medical applications. I am using Continual Learning, Computational Theory of Mind, Transformers, and Graphs in my research.
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/12VHWaDnr_Y56dg_4u-28hqCIEzujuxcV/view?usp=sharing).
