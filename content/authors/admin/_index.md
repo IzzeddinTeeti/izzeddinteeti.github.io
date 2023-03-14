@@ -15,10 +15,10 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://twitter.com/IzzeddinTeeti
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=pkPhmcsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
