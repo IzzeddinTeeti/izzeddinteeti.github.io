@@ -26,6 +26,10 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/izzeddin-teeti/
+  - icon: cv
+    icon_pack: ai
+    link: https://drive.google.com/file/d/1UEJNALpY00rS0HDnVfb5Vworu1I36d3_/view?usp=share_link
+
 organizations:
   - name: Oxford Brookes University
     url: https://www.brookes.ac.uk/research/units/tde/groups/visual-artificial-intelligence-laboratory/
