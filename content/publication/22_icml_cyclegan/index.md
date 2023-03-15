@@ -1,12 +1,14 @@
 ---
-title: 'YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles'
+title: 'Vision in adverse weather: Augmentation using CycleGANs with various object detectors for robust perception in autonomous racing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Aduen Benjumea
   - admin
+  - Valentina Musat
+  - Salman Khan
+  - Alexander Rast
   - Fabio Cuzzolin
   - Andrew Bradley
 
@@ -15,11 +17,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-12-22'
+date: '2022-07-22'
 doi: '' # 2112.11798
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-12-22'
+publishDate: '2022-07-22'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,10 +30,10 @@ publishDate: '2021-12-22'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *ROAD Workshop at International Confernce of Computer Vision (ICCV21)*
-publication_short: In *ROAD @ ICCV21*
+publication: In *Safe Learning for Autonomous Driving Workshop at International Conference on Machine Learning (ICML22)*
+publication_short: In *SL4AD @ ICML22*
 
-abstract: As autonomous vehicles and autonomous racing rise in popularity, so does the need for faster and more accurate detectors. While our naked eyes are able to extract contextual information almost instantly, even from far away, image resolution and computational resources limitations make detecting smaller objects (that is, objects that occupy a small pixel area in the input image) a genuinely challenging task for machines and a wide-open research field. This study explores how the popular YOLOv5 object detector can be modified to improve its performance in detecting smaller objects, with a particular application in autonomous racing. To achieve this, we investigate how replacing certain structural elements of the model (as well as their connections and other parameters) can affect performance and inference time. In doing so, we propose a series of models at different scales, which we name `YOLO-Z', and which display an improvement of up to 6.9% in mAP when detecting smaller objects at 50% IOU, at the cost of just a 3ms increase in inference time compared to the original YOLOv5. Our objective is to inform future research on the potential of adjusting a popular detector such as YOLOv5 to address specific tasks and provide insights on how specific changes can impact small object detection. Such findings, applied to the broader context of autonomous vehicles, could increase the amount of contextual information available to such systems.
+abstract: In an autonomous driving system, perception - identification of features and objects from the environment - is crucial. In autonomous racing, high speeds and small margins demand rapid and accurate detection systems. During the race, the weather can change abruptly, causing significant degradation in perception, resulting in ineffective manoeuvres. In order to improve detection in adverse weather, deep-learning-based models typically require extensive datasets captured in such conditions - the collection of which is a tedious, laborious, and costly process. However, recent developments in CycleGAN architectures allow the synthesis of highly realistic scenes in multiple weather conditions. To this end, we introduce an approach of using synthesised adverse condition datasets in autonomous racing (generated using CycleGAN) to improve the performance of four out of five state-of-the-art detectors by an average of 42.7 and 4.4 mAP percentage points in the presence of night-time conditions and droplets, respectively. Furthermore, we present a comparative analysis of five object detectors - identifying the optimal pairing of detector and training data for use during autonomous racing in challenging conditions.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,14 +48,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2112.11798'
+url_pdf: 'https://learn-to-race.org/workshop-sl4ad-icml2022/assets/papers/paper_17.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1eVw4Y_DmCsFg7CiK4qgSv-uvvYaXqIQx/view?usp=share_link'
 url_project: ''
-url_slides: 'https://drive.google.com/file/d/1qLATadudslhugc_J6ACq_5LHgzr2s90w/view?usp=share_link'
+url_slides: 'https://drive.google.com/file/d/1WlL3gsweF2WSrkjaZdFgAuvVnT4vrbs4/view?usp=share_link'
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1O7RyzCAihRxE8ilXs5YZCMX44jhY0Ysz/view?usp=share_link'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
