@@ -11,6 +11,8 @@ weight: 20
 title: News
 
 ---
+<!-- * [**June 2nd, 2023**]: I served as program Committee member at the [**Scalable Autonomous Driving Workshop at ICRA 2023**](https://sites.google.com/view/icra2023av). -->
+* [**April 7th, 2023**]: Our workshop titled [**ROAD++**](https://www.example.com) is accepted at **ICCV 2023**.
 <!-- * [**December 24th, 2022**]: I finished my position as an Applied Science Intern at **Amazon**. -->
 * [**November 1st, 2022**]: I started my position as an Applied Science Intern at **Amazon**.
 * [**July 28th, 2022**]: I presented two papers at **IJCAI 2022**.
