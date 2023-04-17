@@ -13,7 +13,7 @@ title: News
 # * [**June 2nd, 2023**]: I served as program Committee member at the [**Scalable Autonomous Driving Workshop at ICRA 2023**](https://sites.google.com/view/icra2023av).
 # * [**December 24th, 2022**]: I finished my position as an Applied Science Intern at **Amazon**.
 ---
-* [**April 7th, 2023**]: Our workshop titled [**ROAD++**](https://www.example.com) is accepted at **ICCV 2023**.
+* [**April 7th, 2023**]: Our workshop titled [**ROAD++**](https://sites.google.com/view/road-plus-plus/home) is accepted at **ICCV 2023**.
 * [**November 1st, 2022**]: I started my position as an Applied Science Intern at **Amazon**.
 * [**July 28th, 2022**]: I presented two papers at **IJCAI 2022**.
 * [**July 20th, 2022**]: I presented a paper at **ICML 2022**.
