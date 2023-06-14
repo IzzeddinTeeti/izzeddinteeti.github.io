@@ -10,6 +10,8 @@ weight: 20
 
 title: News
 
+# [**October 4th, 2023**]: I served as Program Chair at the [**ROAD++**](https://sites.google.com/view/road-plus-plus/home) at **ICCV 2023**.
+# * [**June 3th, 2023**]: I was hosted by the Palestinian Ministry of Education to give a talk about Artificial Intelligence and its applications.
 # * [**December 24th, 2022**]: I finished my position as an Applied Science Intern at **Amazon**.
 ---
 * [**June 4th, 2023**]: Our challenge titled [**ROAD-R: the Road Event Detection with Requirements Challenge**](https://sites.google.com/view/road-r/home?authuser=1) is accepted at **NeurIPS 2023 Competition Track**.
