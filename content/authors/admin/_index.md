@@ -28,7 +28,7 @@ social:
     link: https://www.linkedin.com/in/izzeddin-teeti/
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1UEJNALpY00rS0HDnVfb5Vworu1I36d3_/view?usp=share_link
+    link: https://drive.google.com/file/d/1Bv6UrJyRFKljr2pODFRegGMQp2SznBAM/view?usp=sharing
 
 organizations:
   - name: Oxford Brookes University
@@ -50,4 +50,4 @@ highlight_name: true
 ---
 I am a PhD student at Oxford Brookes University, my main research is focused on Intention and Trajectory Prediction in Autonomous Vehicles. I am also engaged in applying machine learning in medical applications. I am using Continual Learning, Computational Theory of Mind, Transformers, and Graphs in my research.
 
-{{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/12VHWaDnr_Y56dg_4u-28hqCIEzujuxcV/view?usp=sharing).
+{{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1Bv6UrJyRFKljr2pODFRegGMQp2SznBAM/view?usp=sharing).
