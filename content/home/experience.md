@@ -26,7 +26,7 @@ experience:
   - title: Applied Science Intern
     company: Amazon
     company_url: ''
-    company_logo: amazon-logo
+    company_logo: OBRA-logo
     location: Berlin, Germany
     date_start: '2022-11-01'
     date_end: '2022-12-30'
