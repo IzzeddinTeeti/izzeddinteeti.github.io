@@ -14,7 +14,6 @@ title: News
 # * [**June 3th, 2023**]: I was hosted by the Palestinian Ministry of Education to give a talk about Artificial Intelligence and its applications.
 # * [**December 24th, 2022**]: I finished my position as an Applied Science Intern at **Amazon**.
 ---
-* [**June 4th, 2023**]: اختبار الكتابة باللغة العربية.
 * [**June 4th, 2023**]: Our challenge titled [**ROAD-R: the Road Event Detection with Requirements Challenge**](https://sites.google.com/view/road-r/home?authuser=1) is accepted at **NeurIPS 2023 Competition Track**.
 * [**June 2nd, 2023**]: I served as program Committee member at the [**Scalable Autonomous Driving Workshop**](https://sites.google.com/view/icra2023av) at **ICRA 2023**.
 * [**May 9th, 2023**]: I served as organising committee member at Oxford Brookes University **PGR Symposium 2023**.
